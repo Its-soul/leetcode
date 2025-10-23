@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Its-soul/leetcode/tree/master/1448-maximum-69-number) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Its-soul/leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
