@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Its-soul/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [1448-maximum-69-number](https://github.com/Its-soul/leetcode/tree/master/1448-maximum-69-number) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Its-soul/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Its-soul/leetcode/tree/master/0039-combination-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Greedy
 |  |
 | ------- |
@@ -95,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Its-soul/leetcode/tree/master/0177-nth-highest-salary) |
+## Counting
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
