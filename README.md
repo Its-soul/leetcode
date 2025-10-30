@@ -137,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Its-soul/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
