@@ -8,8 +8,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.util.*;
-
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
         Set<Integer> numsSet = new HashSet<>();
