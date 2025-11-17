@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Its-soul/leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Database
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
 ## Enumeration
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Its-soul/leetcode/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/Its-soul/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Its-soul/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
 ## Design
 |  |
