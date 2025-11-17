@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Its-soul/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2727-number-of-senior-citizens](https://github.com/Its-soul/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Its-soul/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Its-soul/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Its-soul/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Its-soul/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Its-soul/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Its-soul/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3859-maximum-product-of-two-digits](https://github.com/Its-soul/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Its-soul/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
