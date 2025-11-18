@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Its-soul/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Its-soul/leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Its-soul/leetcode/tree/master/0292-nim-game) |
 | [1448-maximum-69-number](https://github.com/Its-soul/leetcode/tree/master/1448-maximum-69-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Its-soul/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Its-soul/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
 |  |
