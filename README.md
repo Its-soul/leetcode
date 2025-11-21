@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Its-soul/leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Its-soul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Its-soul/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Its-soul/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Its-soul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Its-soul/leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Its-soul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Its-soul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Its-soul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Its-soul/leetcode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Its-soul/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Its-soul/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
