@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Its-soul/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Its-soul/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Its-soul/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Its-soul/leetcode/tree/master/0046-permutations) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Its-soul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Its-soul/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Its-soul/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Its-soul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Its-soul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Its-soul/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Its-soul/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
