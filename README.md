@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Its-soul/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Its-soul/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Its-soul/leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Its-soul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Its-soul/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Its-soul/leetcode/tree/master/0198-house-robber) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Its-soul/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Its-soul/leetcode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Its-soul/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
