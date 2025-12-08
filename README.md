@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Its-soul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/Its-soul/leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Its-soul/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Its-soul/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Its-soul/leetcode/tree/master/0213-house-robber-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Its-soul/leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Its-soul/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Its-soul/leetcode/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Its-soul/leetcode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/Its-soul/leetcode/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Its-soul/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Its-soul/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
