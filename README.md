@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Its-soul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Its-soul/leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0403-frog-jump](https://github.com/Its-soul/leetcode/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/Its-soul/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Its-soul/leetcode/tree/master/0494-target-sum) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Its-soul/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Its-soul/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Its-soul/leetcode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Its-soul/leetcode/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Its-soul/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Its-soul/leetcode/tree/master/0509-fibonacci-number) |
