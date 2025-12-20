@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Its-soul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Its-soul/leetcode/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Its-soul/leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Its-soul/leetcode/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/Its-soul/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Its-soul/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Its-soul/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Its-soul/leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Its-soul/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Its-soul/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Its-soul/leetcode/tree/master/0174-dungeon-game) |
