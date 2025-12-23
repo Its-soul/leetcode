@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Its-soul/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Its-soul/leetcode/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Its-soul/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Its-soul/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Its-soul/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Its-soul/leetcode/tree/master/0274-h-index) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Its-soul/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Its-soul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Its-soul/leetcode/tree/master/0044-wildcard-matching) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Its-soul/leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Its-soul/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Its-soul/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Its-soul/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Its-soul/leetcode/tree/master/1049-last-stone-weight-ii) |
