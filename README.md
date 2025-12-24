@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Its-soul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Its-soul/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/Its-soul/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1219-path-with-maximum-gold](https://github.com/Its-soul/leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Its-soul/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Its-soul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Its-soul/leetcode/tree/master/0792-binary-search) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Its-soul/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/Its-soul/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Its-soul/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Its-soul/leetcode/tree/master/1137-n-th-tribonacci-number) |
