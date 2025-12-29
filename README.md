@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Its-soul/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Its-soul/leetcode/tree/master/0792-binary-search) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Its-soul/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Its-soul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Its-soul/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Its-soul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0904-fruit-into-baskets](https://github.com/Its-soul/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Its-soul/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Its-soul/leetcode/tree/master/0904-fruit-into-baskets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
