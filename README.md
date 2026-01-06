@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Its-soul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Its-soul/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/Its-soul/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/Its-soul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/Its-soul/leetcode/tree/master/1448-maximum-69-number) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/Its-soul/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/Its-soul/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Its-soul/leetcode/tree/master/1092-shortest-common-supersequence) |
