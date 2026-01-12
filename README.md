@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1388-pizza-with-3n-slices](https://github.com/Its-soul/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1390-four-divisors](https://github.com/Its-soul/leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Its-soul/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Its-soul/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Its-soul/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1388-pizza-with-3n-slices](https://github.com/Its-soul/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Its-soul/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Its-soul/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Its-soul/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
