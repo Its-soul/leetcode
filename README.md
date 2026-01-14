@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Its-soul/leetcode/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Its-soul/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Its-soul/leetcode/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Its-soul/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Its-soul/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1092-shortest-common-supersequence](https://github.com/Its-soul/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Its-soul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Its-soul/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Its-soul/leetcode/tree/master/0120-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/Its-soul/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Its-soul/leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Its-soul/leetcode/tree/master/0198-house-robber) |
