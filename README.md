@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Its-soul/leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Its-soul/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Its-soul/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Its-soul/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Its-soul/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Its-soul/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Its-soul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Its-soul/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Its-soul/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Its-soul/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Its-soul/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Its-soul/leetcode/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Its-soul/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Its-soul/leetcode/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/Its-soul/leetcode/tree/master/1219-path-with-maximum-gold) |
