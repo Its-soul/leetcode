@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Its-soul/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Its-soul/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3859-maximum-product-of-two-digits](https://github.com/Its-soul/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Its-soul/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Its-soul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Its-soul/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Its-soul/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/Its-soul/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1448-maximum-69-number](https://github.com/Its-soul/leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
