@@ -1,29 +1,30 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[][] dp = new int[coins.length][amount + 1];
-        for (int i = 0; i < dp.length; i++) {
-            Arrays.fill(dp[i], '#');  
+        int n = coins.length;
+        int [][]dp = new int [n+1][amount+1];
+        int inf= amount+1;
+        for(int i=0; i<=n;i++){
+            Arrays.fill(dp[i],inf);
+            dp[i][0]=0;
         }
-        return helper(0, coins, amount, dp);
+        for(int i =1; i<=n;i++){
+            for(int j=1; j<=amount;j++){
+                dp[i][j]= dp[i-1][j];
+                if(coins[i-1] <= j){
+                    dp[i][j]= Math.min(dp[i][j], dp[i][j-coins[i-1]]+1);
+                }
+            }
+        }
+        return dp[n][amount]>= amount+1 ? -1 : dp[n][amount];
     }
-
-    private int helper(int i, int[] coins, int amount, int[][] dp) {
-        if (amount == 0) return 0;
-        if (amount < 0 || i == coins.length) return -1;
-
-        if (dp[i][amount] != '#') return dp[i][amount];
-
-        int pick = helper(i, coins, amount - coins[i], dp);
-        if (pick != -1) pick++;
-
-        int notPick = helper(i + 1, coins, amount, dp);
-
-        int ans;
-        if (pick == -1 && notPick == -1) ans = -1;
-        else if (pick == -1) ans = notPick;
-        else if (notPick == -1) ans = pick;
-        else ans = Math.min(pick, notPick);
-
-        return dp[i][amount] = ans;
-    }
+    // public int helper(int[] coins, int amount, int i){
+    //     if (amount<0 ||i==coins.length) return -1;
+    //     if (amount==0 ) return 0;
+    //     int take = helper(coins, amount-coins[i], i);
+    //     if (take!=-1) take++;
+    //     int notake = helper(coins, amount, i+1);
+    //     if (take == -1) return notake;
+    //     if (notake == -1) return take;
+    //     return Math.min(take, notake);
+    // }
 }
