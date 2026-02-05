@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Its-soul/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Its-soul/leetcode/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/Its-soul/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Its-soul/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Its-soul/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Its-soul/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Its-soul/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Its-soul/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0226-invert-binary-tree) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Its-soul/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Its-soul/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Its-soul/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0226-invert-binary-tree) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Its-soul/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Its-soul/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Its-soul/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Its-soul/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Its-soul/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Its-soul/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Its-soul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Its-soul/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Its-soul/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
