@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Its-soul/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Its-soul/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1388-pizza-with-3n-slices](https://github.com/Its-soul/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1390-four-divisors](https://github.com/Its-soul/leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Its-soul/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Its-soul/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Its-soul/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Its-soul/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Its-soul/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Number Theory
