@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Its-soul/leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Its-soul/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Its-soul/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Its-soul/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Its-soul/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Its-soul/leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Its-soul/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Probability and Statistics
 |  |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Its-soul/leetcode/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/Its-soul/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Its-soul/leetcode/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Its-soul/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/Its-soul/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
