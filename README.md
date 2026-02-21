@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Its-soul/leetcode/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Its-soul/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Its-soul/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Its-soul/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Its-soul/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/Its-soul/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Its-soul/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Its-soul/leetcode/tree/master/0997-find-the-town-judge) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Its-soul/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Its-soul/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Its-soul/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Its-soul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Its-soul/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Its-soul/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Its-soul/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Its-soul/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Its-soul/leetcode/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Its-soul/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Its-soul/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Its-soul/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Its-soul/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Its-soul/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Its-soul/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Its-soul/leetcode/tree/master/0994-rotting-oranges) |
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Its-soul/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/Its-soul/leetcode/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/Its-soul/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Its-soul/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -645,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Its-soul/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Its-soul/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Its-soul/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Its-soul/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
