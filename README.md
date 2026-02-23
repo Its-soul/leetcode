@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Its-soul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Its-soul/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Its-soul/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Its-soul/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Its-soul/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Its-soul/leetcode/tree/master/0200-number-of-islands) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Its-soul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Its-soul/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Its-soul/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Its-soul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Its-soul/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Its-soul/leetcode/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Its-soul/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Its-soul/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Its-soul/leetcode/tree/master/0174-dungeon-game) |
