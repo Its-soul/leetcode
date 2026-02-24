@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Its-soul/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2406-decode-the-message](https://github.com/Its-soul/leetcode/tree/master/2406-decode-the-message) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Its-soul/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Its-soul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Its-soul/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Its-soul/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Its-soul/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Its-soul/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Its-soul/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Its-soul/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Its-soul/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Its-soul/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Its-soul/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Its-soul/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
