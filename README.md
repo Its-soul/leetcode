@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Its-soul/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1488-avoid-flood-in-the-city](https://github.com/Its-soul/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Its-soul/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Its-soul/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Its-soul/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Its-soul/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Its-soul/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Its-soul/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Its-soul/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Its-soul/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Its-soul/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Its-soul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Its-soul/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Its-soul/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Its-soul/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
