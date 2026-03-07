@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Its-soul/leetcode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Its-soul/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1174-immediate-food-delivery-ii](https://github.com/Its-soul/leetcode/tree/master/1174-immediate-food-delivery-ii) |
+| [1321-restaurant-growth](https://github.com/Its-soul/leetcode/tree/master/1321-restaurant-growth) |
 | [1393-capital-gainloss](https://github.com/Its-soul/leetcode/tree/master/1393-capital-gainloss) |
 | [1934-confirmation-rate](https://github.com/Its-soul/leetcode/tree/master/1934-confirmation-rate) |
 ## Counting
