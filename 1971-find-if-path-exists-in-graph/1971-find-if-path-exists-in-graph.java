@@ -1,28 +1,40 @@
 class Solution {
-    public boolean validPath(int n, int[][] edges, int src, int des) {
-        ArrayList<ArrayList<Integer>> adj= new ArrayList<>();
-        for(int i=0; i<n;i++){
-            adj.add(new ArrayList<>());
+    static int[] parent;
+    static int[] rank;
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+        parent=new int[n];
+        rank=new int[n];
+
+        for(int i=0; i<n ; i++){
+            parent[i]=i;
         }
-        for(int i= 0; i<edges.length;i++){
-            int v= edges[i][0];
-            int u = edges[i][1];
-            adj.get(v).add(u);
-            adj.get(u).add(v);
+        for(int[] edge: edges){
+            int u=edge[0];
+            int v=edge[1];
+            union(u,v);
         }
-        boolean [] vis = new boolean [n];
-        Queue<Integer> qu= new LinkedList<>();
-        vis[src]=true;
-        qu.offer(src);
-        while(!qu.isEmpty()){
-            int curr= qu.remove();
-            for(int i: adj.get(curr)){
-                if(!vis[i]){
-                    vis[i]=true;
-                    qu.add(i);
-                }
-            }
+        return find(source)==find(destination);
+    }
+    public int find(int x){
+        if(x==parent[x]) return x;
+        return parent[x]=find(parent[x]);
+    }
+    public boolean union(int x, int y){
+        int px=find(x);
+        int py=find(y);
+
+        if(px==py) return false;
+
+        if(rank[px]>rank[py]){
+            parent[py]=px;
         }
-        return vis[des];
+        else if(rank[px]<rank[py]){
+            parent[px]=py;
+        }
+        else{
+            parent[px]=py;
+            rank[py]++;
+        }
+        return true;
     }
 }
