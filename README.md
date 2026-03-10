@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Its-soul/leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Its-soul/leetcode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Its-soul/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1084-sales-analysis-iii](https://github.com/Its-soul/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/Its-soul/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1321-restaurant-growth](https://github.com/Its-soul/leetcode/tree/master/1321-restaurant-growth) |
 | [1393-capital-gainloss](https://github.com/Its-soul/leetcode/tree/master/1393-capital-gainloss) |
