@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Its-soul/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Its-soul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Its-soul/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Its-soul/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Its-soul/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
 ## Simulation
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Its-soul/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Its-soul/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Its-soul/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Combinatorics
 |  |
 | ------- |
@@ -712,10 +715,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Union-Find
 |  |
