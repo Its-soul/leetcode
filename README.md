@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Its-soul/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Its-soul/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Its-soul/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Its-soul/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -382,11 +384,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Its-soul/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Its-soul/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/Its-soul/leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1488-avoid-flood-in-the-city](https://github.com/Its-soul/leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Brainteaser
@@ -717,11 +722,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Union-Find
 |  |
 | ------- |
