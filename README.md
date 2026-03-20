@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Its-soul/leetcode/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Its-soul/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Its-soul/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Its-soul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Its-soul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/Its-soul/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0792-binary-search](https://github.com/Its-soul/leetcode/tree/master/0792-binary-search) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Its-soul/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Its-soul/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Combinatorics
 |  |
 | ------- |
@@ -722,12 +725,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Union-Find
@@ -767,4 +772,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
