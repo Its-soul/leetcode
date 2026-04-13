@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Its-soul/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Its-soul/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Its-soul/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
