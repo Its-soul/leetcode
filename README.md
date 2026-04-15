@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Its-soul/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Its-soul/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Its-soul/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Its-soul/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Its-soul/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Its-soul/leetcode/tree/master/0292-nim-game) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Its-soul/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Its-soul/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Its-soul/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Its-soul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Its-soul/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Its-soul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Its-soul/leetcode/tree/master/0476-number-complement) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Its-soul/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Its-soul/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Its-soul/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Its-soul/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Its-soul/leetcode/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/Its-soul/leetcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
