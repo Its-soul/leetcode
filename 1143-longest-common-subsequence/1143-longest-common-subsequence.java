@@ -1,13 +1,23 @@
 class Solution {
-    public int longestCommonSubsequence(String text1, String text2) {
-        int count=0;
-        for(int i=0; i<text1.length(); i++){
-            for(int j=0; j<text2.length(); j++){
-                if(text1.charAt(i)==text2.charAt(j)){
-                    count++;
-                }
-            }
+    int n;
+    int m;
+    Integer [][] dp;
+    public int longestCommonSubsequence(String t1, String t2) {
+        n= t1.length()-1;
+        m= t2.length()-1;
+        dp = new Integer[n+1][m+1];
+        int ans= helper(t1, t2, n, m);
+        return ans;
+    }
+
+    public int helper(String t1, String t2, int i, int j){
+        if(i<0 || j<0) return 0;
+        if(dp[i][j]!=null) return dp[i][j];
+        if(t1.charAt(i)==t2.charAt(j)){
+            return 1+ helper(t1, t2, i-1, j-1);
         }
-        return count;
+        else{
+            return dp[i][j]=Math.max(helper(t1, t2, i-1, j), helper(t1, t2, i, j-1));
+        }
     }
 }
