@@ -1,3 +1,26 @@
+// class Solution {
+//     public int maxCoins(int[] nums) {
+//         int n= nums.length;
+//         int[] arr = new int [n+2];
+//         arr[0]=1;
+//         for(int i= 1; i<=n; i++){
+//             arr[i]= nums[i-1];
+//         }
+//         arr[n+1]= 1;
+//         return helper(arr, 1, n);
+//     }
+//     public int helper(int [] arr, int i, int j){
+//         if(i>j) return 0;
+//         int max= -(int)1e9;
+//         for(int idx=i; idx<=j; idx++){
+//             int cost = arr[i-1]*arr[idx]*arr[j+1] + helper(arr, idx+1, j)+helper(arr, i, idx-1);
+//             max= Math.max(max, cost);
+//         }
+//         return max;
+//     }
+// }
+
+
 class Solution {
     public int maxCoins(int[] nums) {
         int n= nums.length;
