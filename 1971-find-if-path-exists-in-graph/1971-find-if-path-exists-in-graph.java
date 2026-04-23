@@ -1,40 +1,34 @@
 class Solution {
-    static int[] parent;
-    static int[] rank;
+    int [] parent;
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        parent=new int[n];
-        rank=new int[n];
-
-        for(int i=0; i<n ; i++){
+        parent= new int [n];
+        for(int i=0; i<n; i++){
             parent[i]=i;
         }
-        for(int[] edge: edges){
-            int u=edge[0];
-            int v=edge[1];
-            union(u,v);
+        for(int i=0; i<edges.length; i++){
+            int x= edges[i][0];
+            int y= edges[i][1];
+            union(x, y);
         }
-        return find(source)==find(destination);
+        if(find(source)==find(destination)){
+            return true;
+        }
+        return false;
     }
+
     public int find(int x){
-        if(x==parent[x]) return x;
-        return parent[x]=find(parent[x]);
+        if(x== parent[x]){
+            return x;
+        }
+        return parent[x]= find(parent[x]);
     }
-    public boolean union(int x, int y){
-        int px=find(x);
-        int py=find(y);
 
-        if(px==py) return false;
-
-        if(rank[px]>rank[py]){
-            parent[py]=px;
+    public void union(int x, int y){
+        int parx= find(x);
+        int pary= find(y);
+        if(parx!=pary){
+            parent[pary]=parx;
         }
-        else if(rank[px]<rank[py]){
-            parent[px]=py;
-        }
-        else{
-            parent[px]=py;
-            rank[py]++;
-        }
-        return true;
+        return;
     }
 }
