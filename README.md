@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Its-soul/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/Its-soul/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Its-soul/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Its-soul/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2406-decode-the-message](https://github.com/Its-soul/leetcode/tree/master/2406-decode-the-message) |
+| [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Its-soul/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Its-soul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Its-soul/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Its-soul/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
