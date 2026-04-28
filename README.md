@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Its-soul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Its-soul/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Its-soul/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Its-soul/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Its-soul/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Its-soul/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
 |  |
 | ------- |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Its-soul/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Its-soul/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Its-soul/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Its-soul/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Its-soul/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
