@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Its-soul/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Its-soul/leetcode/tree/master/0792-binary-search) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Its-soul/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0875-koko-eating-bananas](https://github.com/Its-soul/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Its-soul/leetcode/tree/master/0879-profitable-schemes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/Its-soul/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0792-binary-search](https://github.com/Its-soul/leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Its-soul/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Its-soul/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
