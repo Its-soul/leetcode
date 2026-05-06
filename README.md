@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Its-soul/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Its-soul/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/Its-soul/leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Its-soul/leetcode/tree/master/0403-frog-jump) |
 | [0463-island-perimeter](https://github.com/Its-soul/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Its-soul/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Its-soul/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/Its-soul/leetcode/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/Its-soul/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Its-soul/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Its-soul/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Its-soul/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Its-soul/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Its-soul/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Its-soul/leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Its-soul/leetcode/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Its-soul/leetcode/tree/master/0494-target-sum) |
