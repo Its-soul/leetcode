@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Its-soul/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Its-soul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Its-soul/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Its-soul/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Its-soul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Its-soul/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Its-soul/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Its-soul/leetcode/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/Its-soul/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Its-soul/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Its-soul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Its-soul/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Its-soul/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Its-soul/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
