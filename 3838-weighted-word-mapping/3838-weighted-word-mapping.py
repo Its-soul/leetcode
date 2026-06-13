@@ -1,13 +1,14 @@
 class Solution(object):
     def mapWordWeights(self, words, weights):
-        res= ""
-        for i in words:
-            total=0
-            for ch in i:
-                idx= ord(ch)- ord('a')
-                total+=weights[idx]
-
-            modval= total%26
-            new_map= chr(ord('z')- modval)
-            res+=new_map
+        alp='abcdefghijklmnopqrstuvwxyz'
+        dc={}
+        for i in  range(len(weights)):
+            dc[alp[i]]=weights[i]
+        res=''
+        for word in words:
+            s=0
+            for i in word:
+                s+=dc[i]
+            p=s%26
+            res+=alp[len(alp)-p-1]
         return res
