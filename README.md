@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
 | [1861-rotating-the-box](https://github.com/Its-soul/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Its-soul/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Its-soul/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Its-soul/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Its-soul/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Its-soul/leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Its-soul/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Its-soul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
