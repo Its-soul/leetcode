@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Its-soul/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Its-soul/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3612-process-string-with-special-operations-i](https://github.com/Its-soul/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
 | [3838-weighted-word-mapping](https://github.com/Its-soul/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Design
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Its-soul/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3612-process-string-with-special-operations-i](https://github.com/Its-soul/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Its-soul/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
