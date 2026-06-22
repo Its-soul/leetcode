@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/Its-soul/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1488-avoid-flood-in-the-city](https://github.com/Its-soul/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Its-soul/leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Its-soul/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Its-soul/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Its-soul/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Its-soul/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/Its-soul/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Its-soul/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Its-soul/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
