@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Its-soul/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Its-soul/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Its-soul/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Its-soul/leetcode/tree/master/2406-decode-the-message) |
 | [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Its-soul/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Its-soul/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Its-soul/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Its-soul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Its-soul/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Its-soul/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Its-soul/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Its-soul/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
