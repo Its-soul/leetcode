@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Its-soul/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Its-soul/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Its-soul/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Its-soul/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Its-soul/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Its-soul/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Its-soul/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Its-soul/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Its-soul/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Brainteaser
 |  |
 | ------- |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Its-soul/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Its-soul/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Its-soul/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -941,11 +946,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/Its-soul/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Its-soul/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Its-soul/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
