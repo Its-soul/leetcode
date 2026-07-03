@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Its-soul/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/Its-soul/leetcode/tree/master/0834-sum-of-distances-in-tree) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Its-soul/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Its-soul/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Its-soul/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Its-soul/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
