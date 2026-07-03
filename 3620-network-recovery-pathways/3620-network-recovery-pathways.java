@@ -101,9 +101,9 @@
 
 class Solution {
 
-    public List<int[]>[] g;
-    public long[] dp;
-    public int n;
+    List<int[]>[] g;
+    long[] dp;
+    int n;
 
     public int findMaxPathScore(int[][] edges, boolean[] online, long k) {
         n = online.length;
