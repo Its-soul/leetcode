@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Its-soul/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Its-soul/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Its-soul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Its-soul/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Its-soul/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Its-soul/leetcode/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/Its-soul/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Its-soul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Its-soul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Its-soul/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Queue
 |  |
