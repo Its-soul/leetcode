@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Its-soul/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/Its-soul/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Its-soul/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Its-soul/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/Its-soul/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/Its-soul/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Its-soul/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Its-soul/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Its-soul/leetcode/tree/master/3859-maximum-product-of-two-digits) |
