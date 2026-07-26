@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Its-soul/leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Its-soul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Its-soul/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Its-soul/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Its-soul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Its-soul/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Its-soul/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Its-soul/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Its-soul/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/Its-soul/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Its-soul/leetcode/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/Its-soul/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Its-soul/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Its-soul/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Its-soul/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
