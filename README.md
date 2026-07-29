@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Its-soul/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Its-soul/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Its-soul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Its-soul/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Its-soul/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Its-soul/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Its-soul/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Its-soul/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Its-soul/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Its-soul/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
 ## Enumeration
 |  |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Its-soul/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Its-soul/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Its-soul/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Its-soul/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Its-soul/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
@@ -895,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Its-soul/leetcode/tree/master/0062-unique-paths) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Its-soul/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Its-soul/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Randomized
 |  |
 | ------- |
