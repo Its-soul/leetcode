@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Its-soul/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Its-soul/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Its-soul/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Its-soul/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Its-soul/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Its-soul/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Its-soul/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Its-soul/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2406-decode-the-message](https://github.com/Its-soul/leetcode/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/Its-soul/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Its-soul/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Its-soul/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Its-soul/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Its-soul/leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Union-Find
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Its-soul/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Its-soul/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Its-soul/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Its-soul/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Monotonic Queue
