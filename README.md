@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Its-soul/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Its-soul/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Its-soul/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Its-soul/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Its-soul/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/Its-soul/leetcode/tree/master/3731-find-missing-elements) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Its-soul/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/Its-soul/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Its-soul/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Its-soul/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
