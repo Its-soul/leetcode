@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Its-soul/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Its-soul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Its-soul/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Its-soul/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Its-soul/leetcode/tree/master/2126-destroying-asteroids) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Its-soul/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Its-soul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Its-soul/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Its-soul/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Its-soul/leetcode/tree/master/2126-destroying-asteroids) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Its-soul/leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Its-soul/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Its-soul/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -856,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1042,10 +1047,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1054,4 +1061,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
