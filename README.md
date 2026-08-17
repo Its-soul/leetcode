@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Its-soul/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Its-soul/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1563-stone-game-v](https://github.com/Its-soul/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Its-soul/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/Its-soul/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Its-soul/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Its-soul/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1563-stone-game-v](https://github.com/Its-soul/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Its-soul/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Its-soul/leetcode/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/Its-soul/leetcode/tree/master/1925-count-square-sum-triples) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Its-soul/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Its-soul/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Its-soul/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Its-soul/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Its-soul/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Its-soul/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
