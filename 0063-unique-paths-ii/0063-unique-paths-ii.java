@@ -1,20 +1,24 @@
 class Solution {
-    static int m;
-    static int n;
+    int n;
+    int m;
     public int uniquePathsWithObstacles(int[][] grid) {
-        m = grid.length;
-        n = grid[0].length;
-        Integer[][] dp = new Integer[m][n];
-        if (grid[0][0] == 1 || grid[m-1][n-1] == 1) return 0;
-        return helper(grid, dp, 0, 0);
+        n = grid.length;
+        m = grid[0].length;
+        Integer dp[][] = new Integer [n+1][m+1];
+
+        return helper(0,0, grid, dp);
+        
     }
 
-    private int helper(int[][] grid, Integer[][] dp, int i, int j) {
-        if (i >= m || j >= n || grid[i][j] == 1) return 0;
-        if (i == m-1 && j == n-1) return 1;
-        if (dp[i][j] != null) return dp[i][j];
-        int down = helper(grid, dp, i+1, j);
-        int right = helper(grid, dp, i, j+1);
-        return dp[i][j] = down + right;
+    public int helper(int i, int j, int grid[][], Integer dp[][]){
+        if(i>=n || j>=m || grid[i][j]==1){
+            return 0;
+        }
+        if(i == n-1 && j == m-1){
+            return 1;
+        }
+        if(dp[i][j] != null) return dp[i][j];
+
+        return dp[i][j] = helper(i+1, j, grid, dp) + helper(i, j+1, grid, dp);
     }
 }
