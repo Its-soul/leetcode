@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Its-soul/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Its-soul/leetcode/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/Its-soul/leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Its-soul/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Its-soul/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Its-soul/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Its-soul/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Its-soul/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Its-soul/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
 | [1899-count-items-matching-a-rule](https://github.com/Its-soul/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1927-sum-game](https://github.com/Its-soul/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Its-soul/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Its-soul/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Its-soul/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Its-soul/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
