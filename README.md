@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Its-soul/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Its-soul/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Its-soul/leetcode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Its-soul/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Its-soul/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Its-soul/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Its-soul/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/Its-soul/leetcode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1925-count-square-sum-triples](https://github.com/Its-soul/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/Its-soul/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Its-soul/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Its-soul/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Its-soul/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Its-soul/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Prefix Sum
@@ -892,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Its-soul/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2485-find-the-pivot-integer](https://github.com/Its-soul/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
@@ -1070,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -1084,5 +1090,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
