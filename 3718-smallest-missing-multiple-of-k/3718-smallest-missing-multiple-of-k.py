@@ -4,4 +4,4 @@ class Solution(object):
         while True:
             if k * i not in nums:
                 return k * i
-            i= i+1
+            i = i+1
