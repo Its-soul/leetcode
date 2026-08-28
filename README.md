@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Its-soul/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Its-soul/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Its-soul/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Its-soul/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Its-soul/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Its-soul/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Its-soul/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Its-soul/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 | Problem Name | Difficulty |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Its-soul/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3707-find-the-most-common-response](https://github.com/Its-soul/leetcode/tree/master/3707-find-the-most-common-response) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Its-soul/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Its-soul/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Its-soul/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Design
 | Problem Name | Difficulty |
