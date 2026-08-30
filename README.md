@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Its-soul/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Its-soul/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Its-soul/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Its-soul/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Its-soul/leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Its-soul/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Its-soul/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Its-soul/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Its-soul/leetcode/tree/master/2126-destroying-asteroids) |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Its-soul/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
