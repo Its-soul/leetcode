@@ -1,79 +1,107 @@
 class Robot {
 
-    private int w;
-    private int h;
-    private int x;
-    private int y;
-    private String dir;
+    int width;
+    int height;
+    int x;
+    int y;
+    String dir;
 
+    int[] dx = {1, 0, -1, 0};
+    int[] dy = {0, 1, 0, -1};
+
+    String[] names = {"East", "North", "West", "South"};
 
     public Robot(int width, int height) {
-        w = width;
-        h = height;
+        this.width = width;
+        this.height = height;
         x = 0;
         y = 0;
         dir = "East";
     }
-
+    
     public void step(int num) {
-        num %= w * 2 + h * 2 - 4;
-        if (num == 0) num = w * 2 + h * 2 - 4;
-        
-        for (int i = 0; i < num; i++) {
-            switch (dir) {
-                case "East":
-                    if (x == w - 1) {
-                        dir = "North";
-                        y++;
-                    }
-                    else {
-                        x++;
-                    }
-                    break;
-                case "North":
-                    if (y == h - 1) {
-                        dir = "West";
-                        x--;
-                    }
-                    else {
-                        y++;
-                    }
-                    break;
-                case "West":
-                    if (x == 0) {
-                        dir = "South";
-                        y--;
-                    }
-                    else {
-                        x--;
-                    }
-                    break;
-                case "South":
-                    if (y == 0) {
-                        dir = "East";
-                        x++;
-                    }
-                    else {
-                        y--;
-                    }
+
+        int perimeter = 2 * (width + height) - 4;
+
+        num %= perimeter;
+
+        if (num == 0) {
+            num = perimeter;
+        }
+
+        while (num > 0) {
+
+            int available;
+
+            if (dir.equals("East")) {
+                available = width - 1 - x;
+            }
+            else if (dir.equals("North")) {
+                available = height - 1 - y;
+            }
+            else if (dir.equals("West")) {
+                available = x;
+            }
+            else {
+                available = y;
+            }
+
+            if (available == 0) {
+                if (dir.equals("East")) {
+                    dir = "North";
+                }
+                else if (dir.equals("North")) {
+                    dir = "West";
+                }
+                else if (dir.equals("West")) {
+                    dir = "South";
+                }
+                else {
+                    dir = "East";
+                }
+
+                continue;
+            }
+
+            int move = Math.min(num, available);
+
+            if (dir.equals("East")) {
+                x += move;
+            }
+            else if (dir.equals("North")) {
+                y += move;
+            }
+            else if (dir.equals("West")) {
+                x -= move;
+            }
+            else {
+                y -= move;
+            }
+
+            num -= move;
+
+            if (num > 0) {
+                if (dir.equals("East")) {
+                    dir = "North";
+                }
+                else if (dir.equals("North")) {
+                    dir = "West";
+                }
+                else if (dir.equals("West")) {
+                    dir = "South";
+                }
+                else {
+                    dir = "East";
+                }
             }
         }
     }
-
+    
     public int[] getPos() {
-        return new int[] {x, y};
+        return new int[]{x, y};
     }
-
+    
     public String getDir() {
         return dir;
     }
-
 }
-
-/**
- * Your Robot object will be instantiated and called as such:
- * Robot obj = new Robot(width, height);
- * obj.step(num);
- * int[] param_2 = obj.getPos();
- * String param_3 = obj.getDir();
- */
