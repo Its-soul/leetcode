@@ -733,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Its-soul/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Its-soul/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2069-walking-robot-simulation-ii](https://github.com/Its-soul/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/Its-soul/leetcode/tree/master/1006-clumsy-factorial) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Its-soul/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Its-soul/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2069-walking-robot-simulation-ii](https://github.com/Its-soul/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
