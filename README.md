@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Its-soul/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0940-distinct-subsequences-ii](https://github.com/Its-soul/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Its-soul/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Its-soul/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/Its-soul/leetcode/tree/master/0879-profitable-schemes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0935-knight-dialer](https://github.com/Its-soul/leetcode/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/Its-soul/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Its-soul/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1012-numbers-with-repeated-digits](https://github.com/Its-soul/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Its-soul/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
