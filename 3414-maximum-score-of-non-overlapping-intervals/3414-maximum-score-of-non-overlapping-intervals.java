@@ -17,9 +17,9 @@ class Solution {
             long[] curScore = new long[n + 1];
             int[][] curIds = new int[n + 1][0];
             for (int p = 1; p <= n; p++) {
-                int i = order[p - 1];  // take next interval
+                int i = order[p - 1]; 
                 int l = iv[i][0], w = iv[i][2];
-                int lo = 0, hi = n;  // lower_bound: intervals ending before l
+                int lo = 0, hi = n; 
                 while (lo < hi) { 
                     int mid = (lo + hi) >>> 1; 
                     if (rights[mid] < l) lo = mid + 1; 
@@ -42,10 +42,10 @@ class Solution {
     }
 
     private static boolean better(long s1, int[] a, long s2, int[] b) {
-        if (s1 != s2) return s1 > s2;  // higher score wins
+        if (s1 != s2) return s1 > s2; 
         int m = Math.min(a.length, b.length);
         for (int i = 0; i < m; i++)
-            if (a[i] != b[i]) return a[i] < b[i];  // then lexicographically smaller
+            if (a[i] != b[i]) return a[i] < b[i]; 
         return a.length < b.length;
     }
 
