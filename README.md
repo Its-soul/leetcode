@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Its-soul/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Its-soul/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/Its-soul/leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Its-soul/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Its-soul/leetcode/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1006-clumsy-factorial](https://github.com/Its-soul/leetcode/tree/master/1006-clumsy-factorial) |
@@ -1137,4 +1138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Its-soul/leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Its-soul/leetcode/tree/main/2029-stone-game-ix/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Its-soul/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
