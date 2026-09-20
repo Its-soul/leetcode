@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Its-soul/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Its-soul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Its-soul/leetcode/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/Its-soul/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Its-soul/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Its-soul/leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Its-soul/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Its-soul/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Its-soul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Its-soul/leetcode/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Its-soul/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Its-soul/leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Its-soul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
