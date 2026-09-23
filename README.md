@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/Its-soul/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Its-soul/leetcode/tree/master/1651-shuffle-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Its-soul/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Its-soul/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Its-soul/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Its-soul/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Its-soul/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Its-soul/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Its-soul/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/Its-soul/leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Its-soul/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Its-soul/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Its-soul/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Its-soul/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Its-soul/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Its-soul/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Its-soul/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Its-soul/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Its-soul/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Its-soul/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Its-soul/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Its-soul/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Its-soul/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
