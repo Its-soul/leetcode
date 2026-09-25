@@ -1,7 +1,9 @@
 class Solution {
+
     TreeSet<String> ans = new TreeSet<>();
-    public List<String> braceExpansionII(String expression) {
-        dfs(expression);
+
+    public List<String> braceExpansionII(String expr) {
+        dfs(expr);
         return new ArrayList<>(ans);
     }
 
