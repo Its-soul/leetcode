@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Its-soul/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Its-soul/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Its-soul/leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Its-soul/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Its-soul/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/Its-soul/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Its-soul/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Its-soul/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Its-soul/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Its-soul/leetcode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Its-soul/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Its-soul/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
 | [1899-count-items-matching-a-rule](https://github.com/Its-soul/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/Its-soul/leetcode/tree/main/1927-sum-game/) | Medium |
