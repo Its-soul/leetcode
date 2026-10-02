@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Its-soul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Its-soul/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Its-soul/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Its-soul/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Its-soul/leetcode/tree/master/0040-combination-sum-ii) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Its-soul/leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Its-soul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Its-soul/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Its-soul/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/Its-soul/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Its-soul/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Its-soul/leetcode/tree/master/0091-decode-ways) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Its-soul/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Its-soul/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Its-soul/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/Its-soul/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Its-soul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Its-soul/leetcode/tree/master/0055-jump-game) |
@@ -1239,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Its-soul/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Its-soul/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Its-soul/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Its-soul/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Its-soul/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
