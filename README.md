@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Its-soul/leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Its-soul/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Its-soul/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Its-soul/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1006-clumsy-factorial](https://github.com/Its-soul/leetcode/tree/master/1006-clumsy-factorial) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Its-soul/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Its-soul/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Its-soul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Its-soul/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Its-soul/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Its-soul/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Its-soul/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/Its-soul/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Its-soul/leetcode/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/Its-soul/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Its-soul/leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Its-soul/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Its-soul/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Its-soul/leetcode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Its-soul/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1255,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Its-soul/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Its-soul/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Its-soul/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Its-soul/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Its-soul/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Its-soul/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Its-soul/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
