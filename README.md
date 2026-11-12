@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-sum-of-variable-length-subarrays](https://github.com/Its-soul/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/Its-soul/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Its-soul/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Its-soul/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Its-soul/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Its-soul/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Its-soul/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Its-soul/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/Its-soul/leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Its-soul/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Its-soul/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Its-soul/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Its-soul/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Its-soul/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Its-soul/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Its-soul/leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Its-soul/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Its-soul/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
