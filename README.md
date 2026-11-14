@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Its-soul/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Its-soul/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Its-soul/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Its-soul/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Its-soul/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Its-soul/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Its-soul/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Its-soul/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Its-soul/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Its-soul/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Its-soul/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Its-soul/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Its-soul/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -1113,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2382-maximum-segment-sum-after-removals](https://github.com/Its-soul/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2485-find-the-pivot-integer](https://github.com/Its-soul/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Its-soul/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Its-soul/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Its-soul/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Its-soul/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
