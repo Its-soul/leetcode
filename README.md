@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Its-soul/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Its-soul/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Its-soul/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Its-soul/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Its-soul/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -1109,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Its-soul/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Its-soul/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Its-soul/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-find-the-highest-altitude](https://github.com/Its-soul/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Its-soul/leetcode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Its-soul/leetcode/tree/main/1872-stone-game-viii/) | Hard |
