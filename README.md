@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Its-soul/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Its-soul/leetcode/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Its-soul/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Its-soul/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2406-decode-the-message](https://github.com/Its-soul/leetcode/tree/master/2406-decode-the-message) |
 | [2409-count-days-spent-together](https://github.com/Its-soul/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Its-soul/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Its-soul/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Its-soul/leetcode/tree/master/2169-simple-bank-system) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Its-soul/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Its-soul/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Its-soul/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
