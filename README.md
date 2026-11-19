@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2382-maximum-segment-sum-after-removals](https://github.com/Its-soul/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Its-soul/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Its-soul/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Its-soul/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2615-sum-of-distances](https://github.com/Its-soul/leetcode/tree/master/2615-sum-of-distances) |
 | [2727-number-of-senior-citizens](https://github.com/Its-soul/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Its-soul/leetcode/tree/master/2126-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Its-soul/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Its-soul/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Its-soul/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Its-soul/leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Its-soul/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Its-soul/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Its-soul/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Its-soul/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2498-frog-jump-ii](https://github.com/Its-soul/leetcode/tree/master/2498-frog-jump-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Its-soul/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Its-soul/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Its-soul/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Its-soul/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
